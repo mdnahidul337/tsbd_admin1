@@ -1,0 +1,28 @@
+{
+  "games": [
+    {
+      "title": "Free Fire",
+      "thumbnail": "https://dl.dropboxusercontent.com/s/your-file-path/free_fire.jpg",
+      "releaseDate": "2024-03-15",
+      "downloadLink": "https://example.com/freefire.apk",
+      "whatsNew": "New season update with improved graphics and new characters",
+      "size": "2.1 GB"
+    },
+    {
+      "title": "PUBG Mobile",
+      "thumbnail": "https://drive.google.com/uc?export=view&id=your-file-id",
+      "releaseDate": "2024-03-10",
+      "downloadLink": "https://example.com/pubg.apk",
+      "whatsNew": "New map and weapons added. Enhanced battle royale experience",
+      "size": "2.8 GB"
+    },
+    {
+      "title": "Minecraft",
+      "thumbnail": "https://workupload.com/file/your-file-path/minecraft.jpg",
+      "releaseDate": "2024-03-05",
+      "downloadLink": "https://example.com/minecraft.apk",
+      "whatsNew": "New biomes and creatures. Improved crafting system",
+      "size": "1.5 GB"
+    }
+  ]
+} 

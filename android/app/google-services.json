@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "293032778739",
+    "project_id": "tsbd-store",
+    "storage_bucket": "tsbd-store.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:293032778739:android:256ecf5ed29be9f40b9086",
+        "android_client_info": {
+          "package_name": "com.nstudio.tsbd_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn2kbd8SKkoO0lTzDwENkB9Aw3DdxZxws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
